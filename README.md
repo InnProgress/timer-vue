@@ -1,5 +1,7 @@
 # timer
 
+<h3>DEMO: https://simple-vue-timer.herokuapp.com/</h3>
+
 ## Project setup
 ```
 npm install
