@@ -2,17 +2,17 @@
 
 <h3>DEMO: https://simple-vue-timer.herokuapp.com/</h3>
 
-# Why?
+## Why?
 - Simple
 - Nice design
 - No use of vuex
 
-# Features
+## Features
 - Start timer
 - Stop timer
 - Reset time
 
-# Screenshots
+## Screenshots
 ![working-timer](https://i.imgur.com/AvGkU4o.png)
 ![stopped-timer](https://i.imgur.com/bu4my3h.png)
 
