@@ -5,7 +5,6 @@
 ## Why?
 - Simple
 - Nice design
-- No use of vuex
 
 ## Features
 - Start timer
